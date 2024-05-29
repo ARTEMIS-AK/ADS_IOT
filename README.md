@@ -2,6 +2,8 @@
 ## Authorised Detection System
 "Empowering Secure Environments with Advanced Detection Technology"
 
+### A group project as a part of my academics, where I countributed in taking care of the hardware part of the project.
+
 Use Case: Faculty Presence Detection, Anomaly Detection.
 
 Motivation:
