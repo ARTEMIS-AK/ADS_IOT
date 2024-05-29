@@ -32,7 +32,3 @@ Software Tech Stack:
 #### Hardware - Circuit
 
 ![Circuit](circuit.png)
-
-#### Software - Portal
-
-![Portal](portal.png)
